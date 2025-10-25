@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
 import Hero from '../components/Hero';
-import CarCard from "../components/CarCard.jsx";
+import CarCard from './components/CarCard';
 import autosData from '../data/autos.json';
 import { FaStar, FaShieldAlt, FaHandshake, FaClock, FaArrowRight, FaWhatsapp } from 'react-icons/fa';
 
