@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "nombre": "TOYOTA FORTUNER SR",
+    "marca": "Toyota",
+    "modelo": 2023,
+    "motor": "2.4 DIÉSEL",
+    "kilometraje": "23.000 kms",
+    "transmision": "Automática 4x2",
+    "placas": "Villa del Rosario",
+    "precio": 229900000,
+    "estado": "usado",
+    "destacado": true,
+    "descripcion": "Vehículo en excelente estado, listo para traspaso. DISPONIBLE SOLO AQUÍ EN @autosdelcaribecol 🏁🚀",
+    "caracteristicas": [
+      "Motor diésel económico y potente",
+      "Sistema de navegación GPS integrado",
+      "Asientos en cuero premium",
+      "Cámara de reversa",
+      "Sensor de parqueo",
+      "Control de crucero",
+      "Sistema de audio premium",
+      "Aire acondicionado dual"
+    ],
+    "imagen": "https://images.unsplash.com/photo-1619767886558-efdc259cde1a?q=80&w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1619767886558-efdc259cde1a?q=80&w=1200",
+      "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?q=80&w=1200",
+      "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?q=80&w=1200"
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "MAZDA CX-5 GRAND TOURING",
+    "marca": "Mazda",
+    "modelo": 2022,
+    "motor": "2.5 GASOLINA",
+    "kilometraje": "19.800 kms",
+    "transmision": "Automática 4x4",
+    "placas": "Barranquilla",
+    "precio": 179900000,
+    "estado": "usado",
+    "destacado": true,
+    "descripcion": "SUV premium con diseño elegante, asientos de cuero, y mantenimiento al día. Ideal para familias que buscan confort y seguridad.",
+    "caracteristicas": [
+      "Tracción 4x4 inteligente",
+      "Pantalla táctil de 10.25 pulgadas",
+      "Sistema de sonido BOSE",
+      "Asientos ventilados",
+      "Head-Up Display",
+      "Frenado automático de emergencia",
+      "Control de ángulo muerto",
+      "Techo panorámico"
+    ],
+    "imagen": "https://images.unsplash.com/photo-1616587894667-6e2c2f94b3fd?q=80&w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1616587894667-6e2c2f94b3fd?q=80&w=1200",
+      "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?q=80&w=1200",
+      "https://images.unsplash.com/photo-1617814076367-b759c7d7e738?q=80&w=1200"
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "CHEVROLET TRACKER PREMIER",
+    "marca": "Chevrolet",
+    "modelo": 2024,
+    "motor": "1.2 TURBO",
+    "kilometraje": "0 kms",
+    "transmision": "Automática CVT",
+    "placas": "Nueva",
+    "precio": 119900000,
+    "estado": "nuevo",
+    "destacado": true,
+    "descripcion": "SUV compacta 0 kilómetros con tecnología de punta. Perfecta para la ciudad y aventuras de fin de semana.",
+    "caracteristicas": [
+      "Motor turbo de última generación",
+      "Sistema MyLink con Apple CarPlay",
+      "Cámara 360 grados",
+      "Asientos premium",
+      "Luces LED automáticas",
+      "Sensor de lluvia",
+      "Control por voz",
+      "Puerto USB múltiple"
+    ],
+    "imagen": "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?q=80&w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?q=80&w=1200",
+      "https://images.unsplash.com/photo-1600712242805-5f78671b24da?q=80&w=1200",
+      "https://images.unsplash.com/photo-1583267746897-2cf415887646?q=80&w=1200"
+    ]
+  },
+  {
+    "id": 4,
+    "nombre": "NISSAN FRONTIER PRO-4X",
+    "marca": "Nissan",
+    "modelo": 2023,
+    "motor": "2.5 DIÉSEL",
+    "kilometraje": "15.500 kms",
+    "transmision": "Automática 4x4",
+    "placas": "Cúcuta",
+    "precio": 159900000,
+    "estado": "usado",
+    "destacado": false,
+    "descripcion": "Camioneta robusta y confiable. Perfecta para trabajo y aventura. Capacidad de carga excepcional.",
+    "caracteristicas": [
+      "Capacidad de remolque 3.500 kg",
+      "Suspensión reforzada",
+      "Barra antivuelco",
+      "Llantas todo terreno",
+      "Bloqueo de diferencial",
+      "Sistema de control de descenso",
+      "Platón reforzado",
+      "Cabina doble espaciosa"
+    ],
+    "imagen": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?q=80&w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?q=80&w=1200",
+      "https://images.unsplash.com/photo-1587136757566-11023d6eac4e?q=80&w=1200",
+      "https://images.unsplash.com/photo-1609521263047-f8f205293f24?q=80&w=1200"
+    ]
+  },
+  {
+    "id": 5,
+    "nombre": "HONDA CR-V TOURING",
+    "marca": "Honda",
+    "modelo": 2022,
+    "motor": "1.5 TURBO",
+    "kilometraje": "28.000 kms",
+    "transmision": "Automática CVT",
+    "placas": "Barranquilla",
+    "precio": 169900000,
+    "estado": "usado",
+    "destacado": false,
+    "descripcion": "SUV versátil con excelente rendimiento de combustible. Reconocida por su confiabilidad y bajo costo de mantenimiento.",
+    "caracteristicas": [
+      "Motor turbo eficiente",
+      "Sistema Honda Sensing",
+      "Maletero amplio",
+      "Asientos calefaccionados",
+      "Apertura eléctrica de portón",
+      "Climatización automática",
+      "Monitor de punto ciego",
+      "Sistema de entretenimiento"
+    ],
+    "imagen": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?q=80&w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?q=80&w=1200",
+      "https://images.unsplash.com/photo-1494905998402-395d579af36f?q=80&w=1200",
+      "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?q=80&w=1200"
+    ]
+  },
+  {
+    "id": 6,
+    "nombre": "HYUNDAI TUCSON LIMITED",
+    "marca": "Hyundai",
+    "modelo": 2024,
+    "motor": "2.0 GASOLINA",
+    "kilometraje": "0 kms",
+    "transmision": "Automática",
+    "placas": "Nueva",
+    "precio": 139900000,
+    "estado": "nuevo",
+    "destacado": true,
+    "descripcion": "SUV de diseño futurista 0 km. Tecnología híbrida disponible. Garantía de fábrica completa.",
+    "caracteristicas": [
+      "Diseño paramétrico único",
+      "Pantalla digital dual 12.3\"",
+      "Carga inalámbrica de celular",
+      "Apertura con sensor de proximidad",
+      "Sistema de purificación de aire",
+      "Asistente de mantenimiento de carril",
+      "Reconocimiento de voz",
+      "Conectividad Bluelink"
+    ],
+    "imagen": "https://images.unsplash.com/photo-1617886903355-9354bb57751f?q=80&w=1200",
+    "galeria": [
+      "https://images.unsplash.com/photo-1617886903355-9354bb57751f?q=80&w=1200",
+      "https://images.unsplash.com/photo-1581540222194-0def2dda95b8?q=80&w=1200",
+      "https://images.unsplash.com/photo-1609521263047-f8f205293f24?q=80&w=1200"
+    ]
+  }
+]
