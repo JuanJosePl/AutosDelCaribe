@@ -7,7 +7,7 @@ import {
   FaShareAlt, FaHeart, FaPhone, FaChevronLeft, FaChevronRight
 } from 'react-icons/fa';
 import autosData from '../data/autos.json';
-import CarCard from './components/CarCard';
+import CarCard from '../components/CarCard';
 const VehiculoDetalle = () => {
   const { id } = useParams();
   const vehiculo = autosData.find(car => car.id === parseInt(id));
