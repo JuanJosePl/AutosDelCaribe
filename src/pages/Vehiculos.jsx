@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { motion } from 'framer-motion';
-import CarCard from '../components/CarCard';
+import CarCard from "../components/Carcard.jsx";
 import autosData from '../data/autos.json';
 import { FaSearch, FaFilter, FaTimes, FaCar } from 'react-icons/fa';
 
